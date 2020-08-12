@@ -8,7 +8,7 @@ fun main() {
     if (nilai > A) {
         println("Nilai Anda A")
     }
-    else if (nilai < A && nilai > B){
+    else if (nilai < A && nilai > B) {
         println("Nilai Anda B")
     }
     else if (nilai < B && nilai > C) {
