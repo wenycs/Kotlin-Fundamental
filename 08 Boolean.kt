@@ -4,7 +4,6 @@ fun main() {
     val B = 80
     val C = 70
     val D = 60
-    val E = 50
     if (nilai > A) {
         println("Nilai Anda A")
     }
@@ -17,10 +16,7 @@ fun main() {
     else if (nilai < C && nilai > D) {
         println("Nilai Anda D")
     }
-    else if (nilai < D && nilai > E) {
-        println("Nilai Anda E")
-    }
     else {
-        println("Nilai Anda F")
+        println("Nilai Anda E")
     }
 }
